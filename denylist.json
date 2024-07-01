@@ -82,9 +82,5 @@
   {
     "notes" : "Requested in https://github.com/SwiftPackageIndex/PackageList/issues/7300.",
     "package_url" : "https://github.com/slashmo/gsoc-swift-baggage-context.git"
-  },
-  {
-    "notes" : "Requested in https://github.com/SwiftPackageIndex/PackageList/issues/10.",
-    "package_url" : "https://github.com/daveverwer/LeftPad.git"
   }
 ]
